@@ -1,9 +1,9 @@
-<div class="entry-content clearfix">
-<p><span class="greytext" style ="color: #ffffff; background-color: grey;">__C__</span><br />
+__C__
 <a href="https://github.com/lightos/credmap" target="_blank" rel="noopener noreferrer">credmap</a> : 동일한 계정 및 비밀번호를 사용하는 사이트를 검색</p>
-<p><span class="greytext" style ="color: #ffffff; background-color: grey;">__G__</span><br />
+__G__
 <a href="https://github.com/internetwache/GitTools" target="_blank" rel="noopener noreferrer">GitTools</a> : GitFinder, GitDumper, GitExtractor</p>
-<p><span class="greytext" style ="color: #ffffff; background-color: grey;">__L__</span><br />
+
+__L__
 <a href="https://github.com/rebootuser/LinEnum" target="_blank" rel="noopener noreferrer">LinEnum</a></p>
 <ul>
 <li>Scripted Local Linux Enumeration &amp; Privilege Escalation Checks</li>
